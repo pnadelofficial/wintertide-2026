@@ -1,0 +1,9 @@
+# Wintertide Feast
+January 18th, 2026
+
+## The contest
+The year is 1214 and truly this is the end times. For months now, all of Waleis has been subsumed under a paleness that has drained the life and color out of the land. From once verdent forests of Soltane to vivid mountains of Kanvoleis, all is now wrapped in a grey haze, slowly becoming more and more opaque and occluding the light of the sun. Word from Arthur's court is that a young knight, one **Parzival**, renowed for his bravery at the battles for Brobaz, caused these supernatural events, but how is not clear. More elusive is how or, even if, it can be reverse, or if we are truly headed towards armeggedon. 
+
+At the plain before the celestial court of **Munsalvaesche** assembles a rowdy crowd. **King Arthur**, leader of the Round Table, though infirm from age, has called together these noble men and women to this spot in order that right and justice may reign in Waleis again. 
+
+"Good people!" he begins. "We are here at Munsalvaesche gate to test our mettle under God's grace." A war-cry raises from the mass. "Behind that wall lies **King Anfortas**, keeper of the Holy Grail and it is his command that we compete for the honor of attaining that so holy relic. For decades now, a wound has plagued him, ever bleeding and aching. No amount of goodly herbs or hearty remedies can assuage his suffering. Feel for his pain, oh Knights and Ladies, but do not pity him. Take up his mantle and show Waleis and the whole world what you must be done to drive off its pale wretchedness,and in doing win yourself eternal fame and glory in God's realm!"
