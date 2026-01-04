@@ -1,5 +1,10 @@
 import streamlit as st
 from utils import inject_css 
+import os
+
+print("FOR DEBUGGING")
+print(os.listdir("."))
+print(os.listdir(".."))
 
 inject_css()
 
