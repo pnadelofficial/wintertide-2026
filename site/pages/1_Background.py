@@ -4,7 +4,7 @@ import os
 
 inject_css()
 
-st.write(os.listdir(".."))
+print(os.listdir(".."))
 
 with open("../mkdwn/background.md", "r") as f:
     markd = f.read()
