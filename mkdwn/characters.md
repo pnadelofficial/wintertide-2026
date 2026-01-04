@@ -9,18 +9,18 @@ This value represents the character's ability to negotiate, persuade and convinc
 This value represents the character's ability to fight, strategize and joust. When in battle, this character may use their overwhelming strength to strike down and oppress their opponents.
 
 ### Stewardship
-This value represents the character's ability to manage their properities and maintain an income. When in battle, this character may possess the best gear and equipement, defeating foes with their wallets.
+This value represents the character's ability to manage their properties and maintain an income. When in battle, this character may possess the best gear and equipment, defeating foes with their wallets.
 
 ### Intrigue
 This value represents the character's cunning, not to mention the lengths that they will go get what they want. When in battle, this character may backstab or trick their opponent. 
 
 ### Learning
-This value represents the character's education and, by extention, their knowledge of history and lore which could be an aid to them. When in battle, they can use advanced strategies from the past to assist them. 
+This value represents the character's education and, by extension, their knowledge of history and lore which could be an aid to them. When in battle, they can use advanced strategies from the past to assist them. 
 
 ## Personae dramatis
 
 ### Parzival
-Sir Parzival Angevin of the Round Table was an ascendant star among King Arthur's court, until he caused the current predicament that we currently find ourselves in, that is. Born to King Gahmuret and Queen Herzeloyde, he was orphened at a young age. Finding himself at Camelot, he quickly distinguished himself as a man of incredible courage, though he wasn't always the brightest candle in the chandelier. After freeing his wife, Queen Condwiramurs from the clutches of an evil wizard, he was invited to Munsalvaesche, but failed to ask Anfortas the question of his wound. He was quickly removed from the premises and cursed to never return. The land, too, was cursed on his account. Learning that the land was plagued due to his mistake, he has vowed to regain Munsalvaesche and claim the Grail. 
+Sir Parzival Angevin of the Round Table was an ascendant star among King Arthur's court, until he caused the current predicament that we currently find ourselves in, that is. Born to King Gahmuret and Queen Herzeloyde, he was orphaned at a young age. Finding himself at Camelot, he quickly distinguished himself as a man of incredible courage, though he wasn't always the brightest candle in the chandelier. After freeing his wife, Queen Condwiramurs from the clutches of an evil wizard, he was invited to Munsalvaesche, but failed to ask Anfortas the question of his wound. He was quickly removed from the premises and cursed to never return. The land, too, was cursed on his account. Learning that the land was plagued due to his mistake, he has vowed to regain Munsalvaesche and claim the Grail. 
 
 #### Traits
 * Diplomacy: 10
@@ -33,7 +33,7 @@ Sir Parzival Angevin of the Round Table was an ascendant star among King Arthur'
 For three times of your choice, ignore minor trait damage.
 
 ### Gawan
-Sir Gawan the Walais is the son of King Arthur's sister, Morgause, and King Lot of Lothain. With this illustrious background, his courage and strength are among the greatest in the kingdom. After Parzival's failure at Munsalvaesche, he too swore to gain the Grail and redeem Camelot. In doing, he is charged wth murder, joins a war and finds himself trapped in the clutches of a magician Clinschor. Defeating him and several other chivalrous knights, he is wed to the great Orgeluse and saves her land from destruction. Though he has acommplished great things as a knight, he has yet to set eyes on Munsalvaesche and can't help but be compared to the wonderous Parzival. Gawan is fiercely loyal to Arthur, but would do anything to prove himself the Angevin's better. 
+Sir Gawan the Walais is the son of King Arthur's sister, Morgause, and King Lot of Lothain. With this illustrious background, his courage and strength are among the greatest in the kingdom. After Parzival's failure at Munsalvaesche, he too swore to gain the Grail and redeem Camelot. In doing, he is charged with murder, joins a war and finds himself trapped in the clutches of a magician Clinschor. Defeating him and several other chivalrous knights, he is wed to the great Orgeluse and saves her land from destruction. Though he has accommplished great things as a knight, he has yet to set eyes on Munsalvaesche and can't help but be compared to the wondrous Parzival. Gawan is fiercely loyal to Arthur, but would do anything to prove himself the Angevin's better. 
 
 #### Traits
 * Diplomacy: 14 
@@ -47,7 +47,7 @@ For one time of your choice, ignore major trait damage.
 
 
 ### Feirefiz
-Gahmuret Angevin traveled long and far in his glorious life, serving much time under the Baruch of Baldac in the country of the Saracen. After a marriage to the Queen of Zazamanc, one Balacane, he departed to Anjou to inherit his kingdom. Unbeknownst to him, Feirefiz was to be born, from a Christan father and a Moorish mother. He is pie-bald, bespeckled with black splotches all over his body. Nonetheless, his fighting strength and devotion mark him as a true warrior and Angevin knight. Though not a Christian, he was called to Munsalvaesche as the most righteous and courageous soul from his land. He seeks to prove himself and extend his fame throughout the whole of Waleis and Christendom.
+Gahmuret Angevin traveled long and far in his glorious life, serving much time under the Baruch of Baldac in the country of the Saracen. After a marriage to the Queen of Zazamanc, one Balacane, he departed to Anjou to inherit his kingdom. Unbeknownst to him, Feirefiz was to be born, from a Christian father and a Moorish mother. He is pie-bald, bespeckled with black splotches all over his body. Nonetheless, his fighting strength and devotion mark him as a true warrior and Angevin knight. Though not a Christian, he was called to Munsalvaesche as the most righteous and courageous soul from his land. He seeks to prove himself and extend his fame throughout the whole of Waleis and Christendom.
 
 #### Traits
 * Diplomacy: 9
@@ -61,7 +61,7 @@ Never take major trait damage from Parzival. Every time you fight Parzival, incr
 
 
 ### Cundrie la Surziere
-A companion to Anfortas and his family, Cundrie is well-versed in the witching ways. Sorceress and mage, she is able to control the unseen forces of the arcane to her benefit. She was born by the Ganges river in far off Hindustan to a unknown parents and now acts as the messanger of the Grail. It was she who cursed the land after Parzival failed to gain the Grail, and spurred Gawain on his own quest. Her power is immense, able to bring down might foes with a snap of the fingers. Though a close aid to Anfortas, she has never been abel to heal him, despite many attempts. Today at Munsalvaeche, she will free her friend of his pain and gain the Grail herself.
+A companion to Anfortas and his family, Cundrie is well-versed in the witching ways. Sorceress and mage, she is able to control the unseen forces of the arcane to her benefit. She was born by the Ganges river in far off Hindustan to a unknown parents and now acts as the messenger of the Grail. It was she who cursed the land after Parzival failed to gain the Grail, and spurred Gawain on his own quest. Her power is immense, able to bring down might foes with a snap of the fingers. Though a close aid to Anfortas, she has never been abel to heal him, despite many attempts. Today at Munsalvaeche, she will free her friend of his pain and gain the Grail herself.
 
 #### Traits
 * Diplomacy: 11 
@@ -89,7 +89,7 @@ For five times of your choice, decrease all of the opponent's stats by 1.
 
 
 ### King Arthur
-The great King of Camelot and Waleis himself, Arther Pendragon, though old and infirm, took up his scepter and might host and marched on Munsalvaesche, not to gain glory or renowned (he has enough of that as it is), but to put an end to the suffering of his people and his land. No longer the same menance in the saddle he was in his youth, he has learned much from that sage Merlin and is still as capable on the battlefield as anyone else assembled to gain the Grail. Though a combatant in the contest, he is also its leader and everyone gives him deference. She wants but one thing: to ease the stress of the Grail's curse, even if it means he must teach these younger folk a lesson.
+The great King of Camelot and Waleis himself, Arther Pendragon, though old and infirm, took up his scepter and might host and marched on Munsalvaesche, not to gain glory or renowned (he has enough of that as it is), but to put an end to the suffering of his people and his land. No longer the same menace in the saddle he was in his youth, he has learned much from that sage Merlin and is still as capable on the battlefield as anyone else assembled to gain the Grail. Though a combatant in the contest, he is also its leader and everyone gives him deference. She wants but one thing: to ease the stress of the Grail's curse, even if it means he must teach these younger folk a lesson.
 
 #### Traits
 * Diplomacy: 15
