@@ -61,29 +61,13 @@ class Duel:
         if major_winner == self.character1:
             major_winning_trait = self.major1
             major_losing_trait = self.major2
-        else:
+        else
+:
             major_winning_trait = self.major2
             major_losing_trait = self.major1
-        affinity_list = AFFINITIES[major_winning_trait]
-        for affinity in affinity_list:
-            post_affinity = affinity(major_losing_trait, major_dmg)
-            if major_dmg != post_affinity:
-                break
-        major_dmg = post_affinity
+        affinity_list = AFFINITIES[major_winning_trait](major_losing_trait, major_dmg)
 
-        # minor afffinities
-        if minor_winner == self.character1:
-            minor_winning_trait = self.minor1
-            minor_losing_trait = self.minor2
-        else:
-            minor_winning_trait = self.minor2
-            minor_losing_trait = self.minor1
-        affinity_list = AFFINITIES[minor_winning_trait]
-        for affinity in affinity_list:
-            post_affinity = affinity(minor_losing_trait, minor_dmg)
-            if minor_dmg != post_affinity:
-                break
-        minor_dmg = post_affinity
-
+        
+        
         return major_dmg, math.floor(minor_dmg/2)
 
